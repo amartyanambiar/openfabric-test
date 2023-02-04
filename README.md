@@ -2,8 +2,7 @@
 
 ## Getting Started
 
-1. Clone the repository to your local machine using
-   //display in code block
+1. Clone the repository to your local machine using 
    `git clone https://github.com/amartyanambiar/openfabric-test.git`
 2. Change into the project directory
    `cd openfabric-test`
